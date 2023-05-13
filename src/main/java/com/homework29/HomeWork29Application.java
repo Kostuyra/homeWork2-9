@@ -8,6 +8,7 @@ public class HomeWork29Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HomeWork29Application.class, args);
+
 	}
 
 }
